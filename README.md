@@ -1,19 +1,19 @@
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Kazi Mahbubur Rahman</h1>
+<h1 align="center">Hi <img src="https://github.com/Crypt06545/Crypt06545/blob/main/Wave.gif" height="55px" width="55px">, I'm Mehadi Hasan</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Content Creator | Learner
+Programmer | Web Developer | Learner
 
 ?></h3>
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on ** Web Development **
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java Script**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **MahbubBengali@gmail.com**
+- 📫 How to reach me **mehedihasansagor2005@gmail.com**
 
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
