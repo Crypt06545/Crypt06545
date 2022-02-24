@@ -36,8 +36,9 @@
 
 
 <h3><b><i>📡📡 Contac 📡📡:</i></b></h3>
-<a href="https://github.com/Crypt06545"><img align="left" title="Github" alt="Github" width="30px" src="images/github.png" /></a>
-<a href="https://www.facebook.com/mehadi.hasanbot"><img align="left" title="Facebook" alt="Facebook" width="30px" src="images/facebook.png" /></a>
-<a href="https://m.me/mehadi.hasanbot"><img align="left" title="Messenger" alt="Messenger" width="30px" src="images/messenger.png" /></a>
-<a href="https://www.instagram.com/__lonely__mehadi_"><img align="left" title="Instagram" alt="Instagram" width="30px" src="images/instagram.png" /></a>
+<a href="https://www.facebook.com/mehadi.hasanbot"><img align="left" title="Facebook" alt="Facebook" width="30px" src="imges/facebook.png" /></a>
+<a href="https://m.me/mehadi.hasanbot"><img align="left" title="Messenger" alt="Messenger" width="30px" src="imges/messenger.png" /></a>
+<a href="https://www.instagram.com/__lonely__mehadi_"><img align="left" title="Instagram" alt="Instagram" width="30px" src="imges/instagram.png" /></a>
+<a href="https://github.com/Crypt06545"><img align="left" title="Github" alt="Github" width="30px" src="imges/github.png" /></a>
+
 
