@@ -1,12 +1,9 @@
 ### Hi there, I'm Mehadi Hasan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+  <img align="right" alt="GIF" src="https://github.com/Crypt06545/Crypt06545/blob/main/code.gif?raw=true" width="500" height="320" />
 
-![github](https://img.shields.io/github/followers/Crypt06545?style=social)
-
-  <img align="right" alt="GIF" src="https://github.com/Arbazkhan4712/Arbazkhan4712/blob/main/code.gif?raw=true" width="500" height="320" />
-
-## I'm a  Python Developer,Computer Science Engineer,Artificial Intelligence Enthusiast and Teacher!!
+## I'm a  Python Developer & Also a Website Developer!!
 
 - 🌱 I’m currently Working on Machine Learning based projects
 - 👯 I’m looking to collaborate with other developers
