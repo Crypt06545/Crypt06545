@@ -1,3 +1,53 @@
+### Hi there, I'm Mehadi Hasan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+![github](https://img.shields.io/github/followers/Crypt06545?style=social)
+
+  <img align="right" alt="GIF" src="https://github.com/Arbazkhan4712/Arbazkhan4712/blob/main/code.gif?raw=true" width="500" height="320" />
+
+## I'm a  Python Developer,Computer Science Engineer,Artificial Intelligence Enthusiast and Teacher!!
+
+- 🌱 I’m currently Working on Machine Learning based projects
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to automate my tasks with programming
+
+### Connect with me:
+<a href="https://www.facebook.com/mehadi.hasanbot"><img align="left" title="Facebook" alt="Facebook" width="30px" src="imges/facebook.png" /></a>
+<a href="https://m.me/mehadi.hasanbot"><img align="left" title="Messenger" alt="Messenger" width="30px" src="imges/messenger.png" /></a>
+<a href="https://www.instagram.com/__lonely__mehadi_"><img align="left" title="Instagram" alt="Instagram" width="30px" src="imges/instagram.png" /></a>
+<a href="https://github.com/Crypt06545"><img align="left" title="Github" alt="Github" width="30px" src="imges/github.png" /></a>
+<br />
+ 
+ 
+ 
+ 
+ ### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="flask" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+<img align="left" alt="raspberry-pi" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
+<img align="left" alt="arduino" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
+<img align="left" alt="sublime-text" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
+
+<img align="left" alt="django" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+
+
+---
+
 
 <p align="center"><a href="https://github.com/Crypt06545">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Crypt06545&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
@@ -6,39 +56,15 @@
 </a></p>
 
 
-<h2><b><i>Hey, It's 👋 Mehadi Hasan</i></b></h2>
-<b><i>💻 I'm a Student & A part time Programmer</i></b>
-
-<h3><b><i>🤠 About me :</i></b></h3>
-<li> 🇧🇩 <i>Resident of Bangladesh</i></li>
-<li> 😇 <i>Muslim</i></li>
-<li> 😪 <i>Love Sleeping</i></li>
-<li> 💔 <i>Born Single</i></li>
-<li> 🤐 <i>Trying to learn JS & SQLI</i></li>
 
 
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Crypt06545"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Crypt06545&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
-
-### Profile Visitors 🏆
+<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" /> 
+<!-- ### Profile Visitors 🏆
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Crypt06545.visitor-badge&left_color=blue&right_color=yellow)
 <br />
-<!-- <a href="https://github.com/Crypt06545"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Crypt06545&color=blueviolet&style=flat-square"></a>
  -->
-[![Mehadi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Crypt06545&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/Crypt06545/github-readme-activity-graph)
-
-
-
-<h3><b><i>📡📡 Contac 📡📡:</i></b></h3>
-<a href="https://www.facebook.com/mehadi.hasanbot"><img align="left" title="Facebook" alt="Facebook" width="30px" src="imges/facebook.png" /></a>
-<a href="https://m.me/mehadi.hasanbot"><img align="left" title="Messenger" alt="Messenger" width="30px" src="imges/messenger.png" /></a>
-<a href="https://www.instagram.com/__lonely__mehadi_"><img align="left" title="Instagram" alt="Instagram" width="30px" src="imges/instagram.png" /></a>
-<a href="https://github.com/Crypt06545"><img align="left" title="Github" alt="Github" width="30px" src="imges/github.png" /></a>
-
 
