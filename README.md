@@ -1,14 +1,38 @@
 ### Hi there, I'm Mehadi Hasan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
+<p align="left">
+  <a href="https://leetcode.com/fmehadi25/">
+    <img src="https://cp-logo.vercel.app/leetcode/fmehadi25/" alt="Leet code rating" />
+  </a>
+  
+<!--   <a href="https://codeforces.com/profile/sudipto.me">
+    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+  </a>
+  <a href="https://stackoverflow.com/users/5921662/sudipto">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/sudiptob2?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
+  </a>
+  <a href="https://github.com/sudiptob2/">
+    <img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="visitors" />
+  </a> -->
+
+</p>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
   <img align="right" alt="GIF" src="https://github.com/Crypt06545/Crypt06545/blob/main/code.gif?raw=true" width="500" height="320" />
+
+
 
 ## I'm a  Python Developer & Also a Website Developer!!
 
 - 🌱 I’m currently Working on Machine Learning based projects
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to automate my tasks with programming
+- ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh`
+- 🌍 I'm mostly active within the **Python Community**
+- 💬 Ping me about **Django**, **Python**, **RestAPIs**, **Keycloak**
 
 ### Connect with me:
 <a href="https://www.facebook.com/mehadi.hasanbot"><img align="left" title="Facebook" alt="Facebook" width="30px" src="imges/facebook.png" /></a>
@@ -16,7 +40,6 @@
 <a href="https://www.instagram.com/__lonely__mehadi_"><img align="left" title="Instagram" alt="Instagram" width="30px" src="imges/instagram.png" /></a>
 <a href="https://github.com/Crypt06545"><img align="left" title="Github" alt="Github" width="30px" src="imges/github.png" /></a>
 <br />
- 
  
  
  
