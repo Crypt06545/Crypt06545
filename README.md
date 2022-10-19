@@ -4,20 +4,6 @@
   <a href="https://leetcode.com/fmehadi25/">
     <img src="https://cp-logo.vercel.app/leetcode/fmehadi25/" alt="Leet code rating" />
   </a>
-  
-<!--   <a href="https://codeforces.com/profile/sudipto.me">
-    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
-  </a>
-  <a href="https://stackoverflow.com/users/5921662/sudipto">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://github.com/sudiptob2?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
-  </a>
-  <a href="https://github.com/sudiptob2/">
-    <img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="visitors" />
-  </a> -->
-
 </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
@@ -69,11 +55,11 @@
 ---
 
 
-<p align="center"><a href="https://github.com/Crypt06545">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Crypt06545&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Crypt06545"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crypt06545&layout=compact&theme=react&hide_border=true" />
-</a></p>
+<div align="center">
+  <a href="https://github.com/Crypt06545">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crypt06545&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crypt06545&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 
@@ -82,9 +68,8 @@
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Crypt06545"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Crypt06545&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" /> 
-<!-- ### Profile Visitors 🏆
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Crypt06545.visitor-badge&left_color=blue&right_color=yellow)
-<br />
- -->
+<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" />
+
+
+
 
