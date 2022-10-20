@@ -60,7 +60,7 @@
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Crypt06545&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Crypt06545&theme=vue" />
-	<img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" />
+	<img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="350" />
 </p>
 
 
