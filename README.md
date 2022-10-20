@@ -11,7 +11,7 @@
 
 
 
-## I'm a  Python Developer & Also a Website Developer!!
+## I'm a  Python Developer & Also a Web Developer!!
 
 - 🌱 I’m currently Working on Machine Learning based projects
 - 👯 I’m looking to collaborate with other developers
