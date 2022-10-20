@@ -64,7 +64,6 @@
 </p>
 
 
-
 <div align="center">
   <a href="https://github.com/Crypt06545">
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crypt06545&layout=compact&langs_count=7&theme=dracula"/>
