@@ -55,20 +55,19 @@
 ---
 
 
+
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Crypt06545&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Crypt06545&theme=vue" />
+</p>
+
+<img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" />
+
 <div align="center">
   <a href="https://github.com/Crypt06545">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crypt06545&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crypt06545&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crypt06545&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-
-
-
-
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/Crypt06545"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Crypt06545&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
-
-<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" />
 
 
 
