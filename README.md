@@ -13,7 +13,7 @@
 
 ## I'm a  Python Developer & Also a Web Developer!!
 
-- 🌱 I’m currently Working on Machine Learning based projects
+- 🌱 I’m currently Working on MERN Stack based projects
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I love to automate my tasks with programming
 - ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh`
