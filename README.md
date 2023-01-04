@@ -7,7 +7,7 @@
 </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-  <img align="right" alt="GIF" src="https://github.com/Crypt06545/Crypt06545/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/Crypt06545/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
 
