@@ -17,7 +17,7 @@
 ---
 <br><br>
 
-I am a full stack developer. I have experience with PHP, JAVA, JS, HTML, TS but I'm always willing to learn new things! I am 20 years old and I live in the Netherlands. I have about 3 years of experience in creating websites and applications. I am always looking for new challenges! Do you want to have something coded? Contact me via<a href="#contact">  below links! </a>
+I am a full stack developer. I have experience with PHP, JAVA, JS, HTML, TS but I'm always willing to learn new things! I am 20 years old and I live in Bangladesh. I have about 3 years of experience in creating websites and applications. I am always looking for new challenges! Contact me via<a href="#contact">  below links! </a>
 <br><br>
 
 
