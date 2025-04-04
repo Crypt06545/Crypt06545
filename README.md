@@ -44,6 +44,7 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
+  <!-- Existing tools (unchanged) -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" width="50" height="50" />
   </a>
@@ -83,7 +84,20 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="50" height="50" />
   </a>
+
+  <!-- New additions below -->
+  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="ShadCN UI" width="50" height="50" />
+  </a>
+  <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg" alt="DaisyUI" width="50" height="50" />
+  </a>
+<a href="https://gsap.com/" target="_blank" rel="noreferrer">
+  <img src="https://gsap.com/community/uploads/monthly_2020_03/tweenmax.thumb.png.c849c5b56c6752e3f2276b82ee702625.png" alt="GSAP" width="50" height="50" />
+</a>
+
 </p>
+
 
 ---
 
