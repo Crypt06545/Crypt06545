@@ -92,12 +92,16 @@
   <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
     <img src="https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg" alt="DaisyUI" width="50" height="50" />
   </a>
-<a href="https://gsap.com/" target="_blank" rel="noreferrer">
-  <img src="https://gsap.com/community/uploads/monthly_2020_03/tweenmax.thumb.png.c849c5b56c6752e3f2276b82ee702625.png" alt="GSAP" width="50" height="50" />
+  <a href="https://gsap.com/" target="_blank" rel="noreferrer">
+    <img src="https://gsap.com/community/uploads/monthly_2020_03/tweenmax.thumb.png.c849c5b56c6752e3f2276b82ee702625.png" alt="GSAP" width="50" height="50" />
+  </a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img src="https://mui.com/static/logo.png" alt="Material UI" width="50" height="50" />
+  </a>
+<a href="https://hero-ui.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/heroui-inc/heroui/main/apps/docs/public/isotipo.png" alt="Hero UI" width="50" height="50" />
 </a>
-
 </p>
-
 
 ---
 
