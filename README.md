@@ -84,6 +84,9 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="50" height="50" />
   </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="50" height="50" />
+  </a>
 
   <!-- New additions below -->
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
