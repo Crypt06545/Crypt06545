@@ -75,6 +75,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="50" height="50" />
   </a>
+    <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Light.svg" alt="React" width="50" height="50" />
+  </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="Express.js" width="50" height="50" />
   </a>
