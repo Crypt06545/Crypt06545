@@ -32,6 +32,11 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Crypt06545&theme=dark&show_icons=true&count_private=true" alt="Crypt06545's GitHub stats" />
         <br><br>
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Crypt06545's streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Crypt06545&theme=dark&hide_border=false" />
+        <br><br>
+        <!-- ✅ LeetCode Badge -->
+        <a href="https://leetcode.com/u/Crypt06545/" target="_blank">
+          <img src="https://img.shields.io/badge/LeetCode-Crypt06545-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Profile" />
+        </a>
       </td>
       <td width="50%" align="center">
         <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Crypt06545&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Crypt06545's top languages" />
@@ -44,7 +49,6 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <!-- Existing tools (unchanged) -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" width="50" height="50" />
   </a>
@@ -75,7 +79,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="50" height="50" />
   </a>
-    <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Light.svg" alt="React" width="50" height="50" />
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -90,8 +94,6 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="50" height="50" />
   </a>
-
-  <!-- New additions below -->
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="ShadCN UI" width="50" height="50" />
   </a>
@@ -104,9 +106,9 @@
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://mui.com/static/logo.png" alt="Material UI" width="50" height="50" />
   </a>
-<a href="https://hero-ui.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/heroui-inc/heroui/main/apps/docs/public/isotipo.png" alt="Hero UI" width="50" height="50" />
-</a>
+  <a href="https://hero-ui.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/heroui-inc/heroui/main/apps/docs/public/isotipo.png" alt="Hero UI" width="50" height="50" />
+  </a>
 </p>
 
 ---
