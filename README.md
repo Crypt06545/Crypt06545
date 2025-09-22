@@ -34,8 +34,8 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Crypt06545's streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Crypt06545&theme=dark&hide_border=false" />
         <br><br>
         <!-- ✅ LeetCode Badge -->
-        <a href="https://leetcode.com/u/Crypt06545/" target="_blank">
-          <img src="https://img.shields.io/badge/LeetCode-Crypt06545-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Profile" />
+        <a href="https://leetcode.com/u/Crypt06545" target="_blank">
+          <img align="center" src="https://leetcard.jacoblin.cool/Crypt06545?theme=dark&font=Fira%20Code&ext=contest" width="420" alt="Crypt06545 LeetCode Graph" />
         </a>
       </td>
       <td width="50%" align="center">
