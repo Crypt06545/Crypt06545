@@ -109,6 +109,15 @@
   <a href="https://hero-ui.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/heroui-inc/heroui/main/apps/docs/public/isotipo.png" alt="Hero UI" width="50" height="50" />
   </a>
+   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/RabbitMQ-Light.svg" alt="RabbitMQ" width="50" height="50" />
+  </a>
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="50" height="50" />
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Redis-Light.svg" alt="redis" width="50" height="50" />
+  </a>
 </p>
 
 ---
