@@ -11,7 +11,7 @@
   <tr border="none">
     <td width="50%" align="left">
       <ul>
-        <li>🌱 I’m currently learning <strong>MERN</strong></li>
+        <li>🌱 I’m currently learning <strong>System Design</strong></li>
         <li>📫 How to reach me: <a href="mailto:crypto.mehadi010@gmail.com">crypto.mehadi010@gmail.com</a></li>
         <li>⚡ Fun fact: Call me as - <strong>Crypt0</strong></li>
       </ul>
